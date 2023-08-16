@@ -34,3 +34,22 @@ Nobody knows. 🤷‍♂️
 
 ## Is it open-source?
 Not now, but will be soon.
+
+## How can I contact you?
+via e-mail (kot.andrei.mail@gmail.com)
+
+## What license is this?
+Partially Creative Commons 4.0.
+
+## Can I fork it?
+Yes, you can.
+
+## Something doesn't work!
+Create an issue and tell us about it! But please keep in mind that this is still аn α (alpha) test!
+
+# Known issues
+|Issue|Workaround|
+|--------|-----------------|
+|Game crashes (Android)| Download a version with different graphics preset
+|Low perfomance (Any platform)|Once again, download a version with different graphics preset
+|Any other issues|Reinstall the game, then create an issue **using a template**
