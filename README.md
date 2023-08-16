@@ -7,3 +7,4 @@ A game about a 81-year-old crazy woman
 # FAQ
 ## Where to get support?
 Open Issues tab and create an issue. If lots of people have the same question, I (@ProximalElk6186) will add it to FAQ.
+## What are supported platforms?
