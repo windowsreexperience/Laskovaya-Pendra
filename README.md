@@ -29,3 +29,8 @@ Open Issues tab and create an issue. If lots of people have the same question, I
 
 Please note that those are MINIMAL requirements. You can run the game on slower PC, but it will run poorly.
 
+## When will be the release?
+Nobody knows. 🤷‍♂️
+
+## Is it open-source?
+Not now, but will be soon.
