@@ -1,5 +1,5 @@
 # Laskovaya-Pendra
-A game about a 81-year-old crazy woman
+A game about a 81-year-old crazy granny
 ## Installation
 1. Download the latest release (or prerelease) from the Release section of this repository.
 2. Install it
