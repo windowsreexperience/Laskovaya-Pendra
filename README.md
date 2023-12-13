@@ -12,20 +12,21 @@ Open Issues tab and create an issue. If lots of people have the same question, I
 |Platform|Supported or not?|
 |--------|-----------------|
 |Windows |✅               |
-|macOS   |❌               |
+|macOS   |❓               |
 |Linux   |:x:
-|Android |✅
+|Android |:x:
 |toaster |:x:
 
 ## What are minimum system requirements?
 
 |Minimal|Recommended|
 |--------|-----------------|
-|Cpu: Any x86_64|Intel Core i9 13<sup>th</sup> gen or higher|
-|RAM: 8GB|32GB|
-|GPU: Non-integrated|Nvidia<sup>TM</sup> RTX 4070|
-|Storage: 50GB of free space|100+GB of free space|
+|Cpu: Intel Core i7 12<sup>th</sup> gen|Intel Core i9 13<sup>th</sup> gen or higher|
+|RAM: 24GB|32GB|
+|GPU: Nvidia<sup>TM</sup> RTX 4070|Nvidia<sup>TM</sup> RTX 4070|
+|Storage: 100+GB of free space|100+GB of free space|
 |Extra: Keyboard, mouse, 1920x1080 screen |Keyboard, mouse, 4k screen (30 inches or higher), speakers|
+|Notes: 640x480 @ 30fps|4K @ 30fps
 
 Please note that those are MINIMAL requirements. You can run the game on slower PC, but it will run poorly.
 
@@ -50,6 +51,5 @@ Create an issue and tell us about it! But please keep in mind that this is still
 # Known issues
 |Issue|Workaround|
 |--------|-----------------|
-|Game crashes (Android)| Download a version with different graphics preset
 |Low perfomance (Any platform)|Once again, download a version with different graphics preset
 |Any other issues|Reinstall the game, then create an issue **using a template**
