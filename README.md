@@ -28,7 +28,7 @@ Open Issues tab and create an issue. If lots of people have the same question, I
 |Extra: Keyboard, mouse, 1920x1080 screen |Keyboard, mouse, 4k screen (30 inches or higher), speakers|
 |Notes: 640x480 @ 30fps|4K @ 30fps
 
-Please note that those are MINIMAL requirements. You can run the game on slower PC, but it will run poorly.
+Please note that those are MINIMAL requirements. You may be able to run the game on slower PC, but it will run poorly.
 
 ## When will be the release?
 Nobody knows. 🤷‍♂️
