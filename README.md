@@ -13,7 +13,7 @@ Open Issues tab and create an issue. If lots of people have the same question, I
 |--------|-----------------|
 |Windows |✅               |
 |macOS   |❓               |
-|Linux   |:x:
+|Linux   |❓
 |Android |:x:
 |toaster |:x:
 
